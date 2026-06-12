@@ -9,7 +9,7 @@
 
 ## Dataset
 
-The model was trained using the Chest X-Ray Pneumonia dataset, which contains chest radiographs categorized as **NORMAL** and **PNEUMONIA**. The dataset includes over 5,000 training images and is widely used for medical image classification research.
+The model was trained using the Chest X-Ray Pneumonia dataset, which contains chest radiographs categorized as (NORMAL) and (PNEUMONIA). The dataset includes over 5,000 training images and is widely used for medical image classification research.
 
 Dataset:
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
